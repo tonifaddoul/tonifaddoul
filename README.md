@@ -3,7 +3,7 @@
 <h3 align="left">A computer science student from Lebanon</h3>
 <img align="right" alt="Coding" width="500" src="https://www.lambdatest.com/resources/images/news24.gif">
 
-- 🌱 I’m currently learning **full stack web developement**
+- 🌱 I’m currently learning **full stack web development**
 
 - 📫 How to reach me **tonisfaddoul@gmail.com**
 
