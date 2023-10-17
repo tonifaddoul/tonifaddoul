@@ -1,4 +1,3 @@
-![MasterHead]
 <h1 align="left">Hi 👋, I'm Tony Faddoul</h1>
 <h3 align="left">A computer science student from Lebanon</h3>
 <img align="right" alt="Coding" width="500" src="https://www.lambdatest.com/resources/images/news24.gif">
